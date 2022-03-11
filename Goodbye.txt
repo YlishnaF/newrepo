@@ -1,2 +1,2 @@
-print Goodbye Word
-p0rint by
+print Goodbye Word;
+p0rint by;
